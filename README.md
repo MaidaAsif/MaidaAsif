@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Maida Asif, Software Engineer and Full-Stack Developer" width="100%">
+  <img src="banner.svg" alt="Maida Asif, Software Engineer and Full-Stack Developer" width="100%">
 
   <p>
     Software Engineering graduate building responsive web apps with <b>React</b> and <b>Python</b>, and designing them in <b>Figma</b>.
@@ -11,12 +11,12 @@
     <a href="https://github.com/MaidaAsif?tab=followers"><img src="https://img.shields.io/github/followers/MaidaAsif?style=for-the-badge&logo=github&color=8b5cf6" alt="GitHub followers"></a>
   </p>
 
-  <img src="assets/highlights.svg" alt="Highlights: 4 projects, 2 certifications, 4 years of study, 3 languages" width="100%">
+  <img src="highlights.svg" alt="Highlights: 4 projects, 2 certifications, 4 years of study, 3 languages" width="100%">
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-about.svg" alt="About Me" width="100%">
+<img src="section-about.svg" alt="About Me" width="100%">
 
 - Software Engineering graduate, **GCUF Sahiwal Campus** (2022–2026)
 - Building responsive interfaces with **React** and back-end services with **Python** and RESTful APIs
@@ -25,15 +25,15 @@
 - Looking for an **entry-level Software Engineer** role
 - Interested in web development trends, edge computing, AI-powered software development, and low-code/no-code development
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-timeline.svg" alt="Learning Timeline" width="100%">
+<img src="section-timeline.svg" alt="Learning Timeline" width="100%">
 
-<img src="assets/timeline.svg" alt="Timeline: Intermediate in Computer Science 2020 to 2022, Bachelor of Software Engineering 2022 to 2026" width="100%">
+<img src="timeline.svg" alt="Timeline: Intermediate in Computer Science 2020 to 2022, Bachelor of Software Engineering 2022 to 2026" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-projects.svg" alt="Projects" width="100%">
+<img src="section-projects.svg" alt="Projects" width="100%">
 
 | Project | What it does | Tech |
 | --- | --- | --- |
@@ -44,9 +44,9 @@
 
 Also on GitHub: [python-conditions-loops-assessment](https://github.com/MaidaAsif/python-conditions-loops-assessment), a set of beginner Python programs on conditionals and loops (scholarship eligibility and pharmacy inventory).
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-tech.svg" alt="Tech Stack" width="100%">
+<img src="section-tech.svg" alt="Tech Stack" width="100%">
 
 **Backend**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -73,9 +73,9 @@ Also on GitHub: [python-conditions-loops-assessment](https://github.com/MaidaAsi
 
 Also familiar with: prototyping and wireframing, SEO and performance optimization, project management, low-code/no-code development, AI-powered software development, and edge computing fundamentals.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-competencies.svg" alt="Core Competencies" width="100%">
+<img src="section-competencies.svg" alt="Core Competencies" width="100%">
 
 <table>
   <tr>
@@ -88,9 +88,9 @@ Also familiar with: prototyping and wireframing, SEO and performance optimizatio
   </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-education.svg" alt="Education and Certifications" width="100%">
+<img src="section-education.svg" alt="Education and Certifications" width="100%">
 
 | Education | Institute | Years |
 | --- | --- | --- |
@@ -102,23 +102,23 @@ Also familiar with: prototyping and wireframing, SEO and performance optimizatio
 | Back-End Development Course | Bano Qabil, Sahiwal | Python, RESTful API development, data handling, API integration |
 | Graphic Designing Course | Bano Qabil, Sahiwal | Design principles, typography, color theory, Photoshop, Illustrator, Canva |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-stats.svg" alt="GitHub Stats" width="100%">
+<img src="section-stats.svg" alt="GitHub Stats" width="100%">
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaidaAsif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats">
   <img height="170" src="https://streak-stats.demolab.com/?user=MaidaAsif&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak stats">
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-connect.svg" alt="Let’s Connect" width="100%">
+<img src="section-connect.svg" alt="Let’s Connect" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maida-asif-0a0067281/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
