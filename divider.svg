@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="6" viewBox="0 0 1200 6" role="img" aria-label="Decorative divider">
+  <title>Divider</title>
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#3b82f6"/><stop offset=".33" stop-color="#8b5cf6"/><stop offset=".66" stop-color="#14b8a6"/><stop offset="1" stop-color="#3b82f6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="1200" height="4" rx="2" fill="url(#flow)"/>
+</svg>

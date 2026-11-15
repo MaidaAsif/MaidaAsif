@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Maida Asif, Software Engineer and Full-Stack Developer. Skills: Python, React, JavaScript, HTML5, CSS3, SQL, Figma">
+  <title>Maida Asif, Software Engineer and Full-Stack Developer. Skills: Python, React, JavaScript, HTML5, CSS3, SQL, Figma</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#151a3d"/><stop offset="1" stop-color="#0a1c2b"/>
+    </linearGradient>
+    <linearGradient id="gname" gradientUnits="userSpaceOnUse" x1="380" y1="0" x2="820" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity=".07"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } }
+    @keyframes grow { from { transform: scaleX(0); } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    .rise { animation: rise .8s ease-out both; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .name { animation: rise 1s ease-out both; }
+    .title { animation: rise 1s ease-out .25s both; }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <circle cx="170" cy="70" r="130" fill="#3b82f6" opacity=".45" filter="url(#blur)">
+      <animate attributeName="cx" values="170;300;170" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="70;130;70" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="300" r="140" fill="#8b5cf6" opacity=".4" filter="url(#blur)">
+      <animate attributeName="cx" values="600;520;600" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="90" r="130" fill="#14b8a6" opacity=".4" filter="url(#blur)">
+      <animate attributeName="cx" values="1040;930;1040" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;160;90" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <text class="name" x="600" y="128" text-anchor="middle" font-size="74" font-weight="800" fill="url(#gname)">Maida Asif</text>
+    <text class="title" x="600" y="182" text-anchor="middle" font-size="28" font-weight="500" fill="#d5dcf5">Software Engineer  |  Full-Stack Developer</text>
+    <g class="rise" style="animation-delay:0.70s">
+      <rect x="228.0" y="226" width="100" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="278.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">Python</text>
+    </g>
+    <g class="rise" style="animation-delay:0.82s">
+      <rect x="342.0" y="226" width="90" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="387.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">React</text>
+    </g>
+    <g class="rise" style="animation-delay:0.94s">
+      <rect x="446.0" y="226" width="140" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="516.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">JavaScript</text>
+    </g>
+    <g class="rise" style="animation-delay:1.06s">
+      <rect x="600.0" y="226" width="90" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="645.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">HTML5</text>
+    </g>
+    <g class="rise" style="animation-delay:1.18s">
+      <rect x="704.0" y="226" width="80" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="744.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">CSS3</text>
+    </g>
+    <g class="rise" style="animation-delay:1.30s">
+      <rect x="798.0" y="226" width="70" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="833.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">SQL</text>
+    </g>
+    <g class="rise" style="animation-delay:1.42s">
+      <rect x="882.0" y="226" width="90" height="42" rx="21" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".22"/>
+      <text x="927.0" y="253" text-anchor="middle" font-size="17" font-weight="600" fill="#e6ebff">Figma</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="url(#g)" stroke-width="2" stroke-opacity=".85"/>
+</svg>
